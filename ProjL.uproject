@@ -54,6 +54,10 @@
 		{
 			"Name": "GF_Test",
 			"Enabled": true
+		},
+		{
+			"Name": "GeometryScripting",
+			"Enabled": true
 		}
 	]
 }
